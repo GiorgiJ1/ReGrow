@@ -1,0 +1,17 @@
+{
+  "name": "coffee-leaflet-app",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "node --watch src/main.js",
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "leaflet": "^1.9.4"
+  },
+  "engines": {
+    "node": ">=24.0.0"
+  }
+}

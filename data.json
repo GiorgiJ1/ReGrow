@@ -1,0 +1,899 @@
+{
+  "shops": [
+    {
+      "id": "lof1",
+      "name": "Lofbergs Point — Riga Center",
+      "lat": 56.9496,
+      "lng": 24.1052
+    },
+    {
+      "id": "lof2",
+      "name": "Lofbergs Point — Old Town",
+      "lat": 56.9475,
+      "lng": 24.1073
+    },
+    {
+      "id": "lof3",
+      "name": "Lofbergs Point — Agenskalns",
+      "lat": 56.9336,
+      "lng": 24.0747
+    },
+    {
+      "id": "osm:node:418065684",
+      "name": "Narvesen",
+      "lat": 56.4994865,
+      "lng": 27.3302431
+    },
+    {
+      "id": "osm:node:428922768",
+      "name": "Narvesen",
+      "lat": 56.9300945,
+      "lng": 24.1546179
+    },
+    {
+      "id": "osm:node:470042274",
+      "name": "Narvesen",
+      "lat": 56.9522475,
+      "lng": 24.1150906
+    },
+    {
+      "id": "osm:node:722731962",
+      "name": "Narvesen",
+      "lat": 56.9633238,
+      "lng": 24.137398
+    },
+    {
+      "id": "osm:node:765363624",
+      "name": "Narvesen",
+      "lat": 55.8703811,
+      "lng": 26.5179742
+    },
+    {
+      "id": "osm:node:805113945",
+      "name": "Narvesen",
+      "lat": 56.6410613,
+      "lng": 23.7322588
+    },
+    {
+      "id": "osm:node:928749108",
+      "name": "Narvesen",
+      "lat": 56.9511466,
+      "lng": 24.1270816
+    },
+    {
+      "id": "osm:node:1026324792",
+      "name": "Narvesen",
+      "lat": 56.9283123,
+      "lng": 24.0518723
+    },
+    {
+      "id": "osm:node:1446563332",
+      "name": "Narvesen",
+      "lat": 56.958929,
+      "lng": 24.094719
+    },
+    {
+      "id": "osm:node:1448070034",
+      "name": "Narvesen",
+      "lat": 56.9520077,
+      "lng": 24.1225349
+    },
+    {
+      "id": "osm:node:1485001239",
+      "name": "Narvesen",
+      "lat": 56.9498078,
+      "lng": 24.1187433
+    },
+    {
+      "id": "osm:node:1655576159",
+      "name": "Narvesen",
+      "lat": 56.6046795,
+      "lng": 24.2084687
+    },
+    {
+      "id": "osm:node:1680449251",
+      "name": "Narvesen",
+      "lat": 56.9467671,
+      "lng": 24.1194162
+    },
+    {
+      "id": "osm:node:1751114246",
+      "name": "Narvesen",
+      "lat": 56.9585956,
+      "lng": 24.1862607
+    },
+    {
+      "id": "osm:node:1817322223",
+      "name": "Narvesen",
+      "lat": 56.9511301,
+      "lng": 24.1091301
+    },
+    {
+      "id": "osm:node:1826011339",
+      "name": "Narvesen",
+      "lat": 56.9479681,
+      "lng": 24.1072608
+    },
+    {
+      "id": "osm:node:1837477541",
+      "name": "Narvesen",
+      "lat": 56.9486091,
+      "lng": 24.123211
+    },
+    {
+      "id": "osm:node:2008768731",
+      "name": "Narvesen",
+      "lat": 56.9215318,
+      "lng": 23.9794487
+    },
+    {
+      "id": "osm:node:2159709452",
+      "name": "Narvesen",
+      "lat": 56.9743072,
+      "lng": 24.1367068
+    },
+    {
+      "id": "osm:node:2252194133",
+      "name": "Narvesen",
+      "lat": 57.153255,
+      "lng": 24.8542519
+    },
+    {
+      "id": "osm:node:2321104505",
+      "name": "Narvesen",
+      "lat": 56.9586821,
+      "lng": 24.1057397
+    },
+    {
+      "id": "osm:node:2637110870",
+      "name": "Narvesen",
+      "lat": 57.1282982,
+      "lng": 24.2788699
+    },
+    {
+      "id": "osm:node:2890932983",
+      "name": "Narvesen",
+      "lat": 56.9733621,
+      "lng": 23.8037
+    },
+    {
+      "id": "osm:node:2903220936",
+      "name": "Narvesen",
+      "lat": 56.9476607,
+      "lng": 24.1142755
+    },
+    {
+      "id": "osm:node:3249556955",
+      "name": "Narvesen",
+      "lat": 56.9499065,
+      "lng": 24.1113335
+    },
+    {
+      "id": "osm:node:3304009883",
+      "name": "Narvesen",
+      "lat": 56.9469202,
+      "lng": 24.1206218
+    },
+    {
+      "id": "osm:node:3304009884",
+      "name": "Narvesen",
+      "lat": 56.9477348,
+      "lng": 24.1210639
+    },
+    {
+      "id": "osm:node:3320917278",
+      "name": "Narvesen",
+      "lat": 56.949495,
+      "lng": 24.0832435
+    },
+    {
+      "id": "osm:node:3367894389",
+      "name": "Narvesen",
+      "lat": 56.4917694,
+      "lng": 21.0039188
+    },
+    {
+      "id": "osm:node:3776173506",
+      "name": "Narvesen",
+      "lat": 56.9618242,
+      "lng": 24.0355562
+    },
+    {
+      "id": "osm:node:4018780803",
+      "name": "Narvesen",
+      "lat": 57.040901,
+      "lng": 24.0296092
+    },
+    {
+      "id": "osm:node:4236860212",
+      "name": "Narvesen",
+      "lat": 57.3130908,
+      "lng": 25.2818262
+    },
+    {
+      "id": "osm:node:4383387193",
+      "name": "Narvesen",
+      "lat": 56.9663962,
+      "lng": 21.9575609
+    },
+    {
+      "id": "osm:node:4396671400",
+      "name": "Narvesen",
+      "lat": 56.9538387,
+      "lng": 24.1162795
+    },
+    {
+      "id": "osm:node:4794811148",
+      "name": "Narvesen",
+      "lat": 56.9464591,
+      "lng": 24.1142927
+    },
+    {
+      "id": "osm:node:4880790454",
+      "name": "Narvesen",
+      "lat": 56.9570939,
+      "lng": 24.1229789
+    },
+    {
+      "id": "osm:node:4904905375",
+      "name": "Narvesen",
+      "lat": 56.4067741,
+      "lng": 24.196033
+    },
+    {
+      "id": "osm:node:5809933755",
+      "name": "Narvesen",
+      "lat": 56.4058329,
+      "lng": 24.1884678
+    },
+    {
+      "id": "osm:node:5831626386",
+      "name": "Narvesen",
+      "lat": 55.8711009,
+      "lng": 26.5250014
+    },
+    {
+      "id": "osm:node:5940792997",
+      "name": "Narvesen",
+      "lat": 56.9230699,
+      "lng": 23.9792883
+    },
+    {
+      "id": "osm:node:5940793764",
+      "name": "Narvesen",
+      "lat": 56.922884,
+      "lng": 23.9795701
+    },
+    {
+      "id": "osm:node:5940812097",
+      "name": "Narvesen",
+      "lat": 56.9223542,
+      "lng": 23.977411
+    },
+    {
+      "id": "osm:node:5979212276",
+      "name": "Narvesen",
+      "lat": 56.9548053,
+      "lng": 24.1215426
+    },
+    {
+      "id": "osm:node:6116714950",
+      "name": "Narvesen",
+      "lat": 56.9755644,
+      "lng": 24.1656654
+    },
+    {
+      "id": "osm:node:6127850150",
+      "name": "Narvesen",
+      "lat": 56.9353779,
+      "lng": 24.0719367
+    },
+    {
+      "id": "osm:node:6343144709",
+      "name": "Narvesen",
+      "lat": 56.956684,
+      "lng": 24.1136157
+    },
+    {
+      "id": "osm:node:6516352585",
+      "name": "Narvesen",
+      "lat": 57.5555202,
+      "lng": 25.4430099
+    },
+    {
+      "id": "osm:node:6713012130",
+      "name": "Narvesen",
+      "lat": 56.9674883,
+      "lng": 24.2440167
+    },
+    {
+      "id": "osm:node:7326187053",
+      "name": "Narvesen",
+      "lat": 56.7918452,
+      "lng": 23.9477578
+    },
+    {
+      "id": "osm:node:7460901421",
+      "name": "Narvesen",
+      "lat": 56.9455235,
+      "lng": 24.0746713
+    },
+    {
+      "id": "osm:node:7490583215",
+      "name": "Narvesen",
+      "lat": 56.9660215,
+      "lng": 24.125758
+    },
+    {
+      "id": "osm:node:8316879703",
+      "name": "Narvesen",
+      "lat": 56.961396,
+      "lng": 24.1413175
+    },
+    {
+      "id": "osm:node:8773860823",
+      "name": "Narvesen",
+      "lat": 56.9407217,
+      "lng": 24.1382919
+    },
+    {
+      "id": "osm:node:9008622074",
+      "name": "Narvesen Baltija",
+      "lat": 56.9477713,
+      "lng": 24.1218621
+    },
+    {
+      "id": "osm:node:9373127437",
+      "name": "Narvesen",
+      "lat": 56.9536449,
+      "lng": 24.0372942
+    },
+    {
+      "id": "osm:node:9484513948",
+      "name": "Narvesen",
+      "lat": 56.5085684,
+      "lng": 27.3324314
+    },
+    {
+      "id": "osm:node:9839117666",
+      "name": "Narvesen",
+      "lat": 56.9668293,
+      "lng": 24.133891
+    },
+    {
+      "id": "osm:node:9846756099",
+      "name": "Narvesen",
+      "lat": 56.9665061,
+      "lng": 24.1639096
+    },
+    {
+      "id": "osm:node:9861768673",
+      "name": "Narvesen",
+      "lat": 56.926907,
+      "lng": 24.1024584
+    },
+    {
+      "id": "osm:node:9891691238",
+      "name": "Narvesen",
+      "lat": 56.9645302,
+      "lng": 24.1192773
+    },
+    {
+      "id": "osm:node:9925370463",
+      "name": "Narvesen",
+      "lat": 56.5149404,
+      "lng": 21.0180731
+    },
+    {
+      "id": "osm:node:10176145690",
+      "name": "Narvesen",
+      "lat": 56.9250341,
+      "lng": 24.1106687
+    },
+    {
+      "id": "osm:node:10218055923",
+      "name": "Narvesen",
+      "lat": 57.538569,
+      "lng": 25.4238129
+    },
+    {
+      "id": "osm:node:10596245328",
+      "name": "Narvesen",
+      "lat": 56.9630929,
+      "lng": 24.1247541
+    },
+    {
+      "id": "osm:node:11081342247",
+      "name": "Narvesen",
+      "lat": 56.9606158,
+      "lng": 24.0373085
+    },
+    {
+      "id": "osm:node:11134078538",
+      "name": "Narvesen",
+      "lat": 56.9569445,
+      "lng": 24.1332787
+    },
+    {
+      "id": "osm:node:11305968385",
+      "name": "Narvesen",
+      "lat": 56.9542274,
+      "lng": 24.1277601
+    },
+    {
+      "id": "osm:node:11385520408",
+      "name": "Narvesen",
+      "lat": 56.9448846,
+      "lng": 24.114535
+    },
+    {
+      "id": "osm:node:11610109057",
+      "name": "Narvesen",
+      "lat": 56.9252094,
+      "lng": 24.174472
+    },
+    {
+      "id": "osm:node:11669950186",
+      "name": "Narvesen",
+      "lat": 56.9216889,
+      "lng": 23.9800267
+    },
+    {
+      "id": "osm:node:12052819492",
+      "name": "Narvesen",
+      "lat": 56.9054321,
+      "lng": 24.1910647
+    },
+    {
+      "id": "osm:node:12124315313",
+      "name": "Narvesen",
+      "lat": 56.8976243,
+      "lng": 24.2108213
+    },
+    {
+      "id": "osm:node:12379241608",
+      "name": "Narvesen",
+      "lat": 56.9222649,
+      "lng": 24.0855537
+    },
+    {
+      "id": "osm:node:12438483176",
+      "name": "Narvesen",
+      "lat": 56.9227598,
+      "lng": 24.1758373
+    },
+    {
+      "id": "osm:node:12456274668",
+      "name": "Narvesen",
+      "lat": 56.9293686,
+      "lng": 24.0379805
+    },
+    {
+      "id": "osm:node:12548775595",
+      "name": "Narvesen",
+      "lat": 56.9450787,
+      "lng": 24.1149388
+    },
+    {
+      "id": "osm:node:12585001177",
+      "name": "Narvesen",
+      "lat": 56.9308303,
+      "lng": 24.1838865
+    },
+    {
+      "id": "osm:node:13543599758",
+      "name": "Narvesen",
+      "lat": 57.390501,
+      "lng": 21.5692514
+    },
+    {
+      "id": "osm:way:87575786",
+      "name": "Narvesen",
+      "lat": 56.9878948,
+      "lng": 24.1306484
+    },
+    {
+      "id": "osm:way:90104858",
+      "name": "Narvesen",
+      "lat": 56.9573867,
+      "lng": 24.1841821
+    },
+    {
+      "id": "osm:way:91966890",
+      "name": "Narvesen",
+      "lat": 57.5384871,
+      "lng": 25.4201215
+    },
+    {
+      "id": "osm:way:105116048",
+      "name": "Narvesen",
+      "lat": 56.9640296,
+      "lng": 23.6038288
+    },
+    {
+      "id": "osm:way:105117002",
+      "name": "Narvesen",
+      "lat": 56.9752799,
+      "lng": 23.8573204
+    },
+    {
+      "id": "osm:way:114865150",
+      "name": "Narvesen",
+      "lat": 56.9450149,
+      "lng": 24.1153441
+    },
+    {
+      "id": "osm:way:115794278",
+      "name": "Narvesen",
+      "lat": 57.0049485,
+      "lng": 24.1572123
+    },
+    {
+      "id": "osm:way:134361938",
+      "name": "Narvesen",
+      "lat": 56.9539412,
+      "lng": 24.068819
+    },
+    {
+      "id": "osm:way:135355988",
+      "name": "Narvesen",
+      "lat": 56.9589427,
+      "lng": 24.0061829
+    },
+    {
+      "id": "osm:way:151663747",
+      "name": "Narvesen",
+      "lat": 56.9374078,
+      "lng": 24.2035941
+    },
+    {
+      "id": "osm:way:159421742",
+      "name": "Narvesen",
+      "lat": 57.0320017,
+      "lng": 24.1088077
+    },
+    {
+      "id": "osm:way:173318925",
+      "name": "Narvesen",
+      "lat": 55.8713294,
+      "lng": 26.5238647
+    },
+    {
+      "id": "osm:way:188823200",
+      "name": "Narvesen",
+      "lat": 56.5981707,
+      "lng": 24.1963347
+    },
+    {
+      "id": "osm:way:212402626",
+      "name": "Narvesen",
+      "lat": 56.9587542,
+      "lng": 24.1412943
+    },
+    {
+      "id": "osm:way:217179340",
+      "name": "Narvesen",
+      "lat": 56.9527468,
+      "lng": 24.1194693
+    },
+    {
+      "id": "osm:way:291108390",
+      "name": "Narvesen",
+      "lat": 56.960207,
+      "lng": 24.1295669
+    },
+    {
+      "id": "osm:way:293710537",
+      "name": "Narvesen",
+      "lat": 56.5095783,
+      "lng": 21.0124835
+    },
+    {
+      "id": "osm:way:327575784",
+      "name": "Narvesen",
+      "lat": 56.9789229,
+      "lng": 24.1858256
+    },
+    {
+      "id": "osm:way:374068096",
+      "name": "Narvesen",
+      "lat": 56.9689384,
+      "lng": 24.0583881
+    },
+    {
+      "id": "osm:way:394991563",
+      "name": "Narvesen",
+      "lat": 57.040901,
+      "lng": 24.0296092
+    },
+    {
+      "id": "osm:way:546817819",
+      "name": "Narvesen",
+      "lat": 57.5339313,
+      "lng": 25.4261154
+    },
+    {
+      "id": "osm:way:711128668",
+      "name": "Narvesen",
+      "lat": 56.9611054,
+      "lng": 24.0141389
+    },
+    {
+      "id": "osm:way:744877005",
+      "name": "Narvesen",
+      "lat": 57.0705469,
+      "lng": 24.320538
+    },
+    {
+      "id": "osm:way:813455503",
+      "name": "Narvesen",
+      "lat": 56.9022704,
+      "lng": 24.0936783
+    },
+    {
+      "id": "osm:way:935628003",
+      "name": "Narvesen",
+      "lat": 55.8933734,
+      "lng": 26.5615273
+    },
+    {
+      "id": "osm:way:984264940",
+      "name": "Narvesen",
+      "lat": 56.954017,
+      "lng": 24.0069769
+    },
+    {
+      "id": "osm:way:984264941",
+      "name": "Narvesen",
+      "lat": 56.9657232,
+      "lng": 24.0084678
+    },
+    {
+      "id": "osm:way:1023155600",
+      "name": "Narvesen",
+      "lat": 56.9567834,
+      "lng": 24.1167182
+    },
+    {
+      "id": "osm:way:1030117255",
+      "name": "Narvesen",
+      "lat": 55.8809794,
+      "lng": 26.5582407
+    },
+    {
+      "id": "osm:way:1065925539",
+      "name": "Narvesen",
+      "lat": 56.6708507,
+      "lng": 23.7618743
+    },
+    {
+      "id": "osm:way:1115280329",
+      "name": "Narvesen",
+      "lat": 56.9640091,
+      "lng": 24.1769151
+    },
+    {
+      "id": "osm:way:1203786257",
+      "name": "Narvesen",
+      "lat": 56.9219277,
+      "lng": 24.0864941
+    },
+    {
+      "id": "osm:way:1207114736",
+      "name": "Narvesen",
+      "lat": 56.9475182,
+      "lng": 23.6183228
+    },
+    {
+      "id": "osm:way:1231128429",
+      "name": "Narvesen",
+      "lat": 56.982428,
+      "lng": 24.2056575
+    },
+    {
+      "id": "osm:way:1231565231",
+      "name": "Narvesen",
+      "lat": 56.9835533,
+      "lng": 24.2041359
+    },
+    {
+      "id": "osm:way:1243846770",
+      "name": "Narvesen",
+      "lat": 56.9101699,
+      "lng": 24.087203
+    },
+    {
+      "id": "osm:way:1315733410",
+      "name": "Narvesen",
+      "lat": 56.932491,
+      "lng": 24.0686512
+    }
+  ],
+  "productionByDay": {
+    "2026-02-21": {
+      "lof1": 120,
+      "lof2": 40,
+      "lof3": 260
+    },
+    "2026-02-22": {
+      "lof1": 73,
+      "lof2": 0,
+      "lof3": 89,
+      "osm:node:418065684": 16,
+      "osm:node:428922768": 12,
+      "osm:node:470042274": 91,
+      "osm:node:722731962": 260,
+      "osm:node:765363624": 116,
+      "osm:node:805113945": 0,
+      "osm:node:928749108": 0,
+      "osm:node:1026324792": 189,
+      "osm:node:1446563332": 182,
+      "osm:node:1448070034": 17,
+      "osm:node:1485001239": 0,
+      "osm:node:1655576159": 115,
+      "osm:node:1680449251": 15,
+      "osm:node:1751114246": 0,
+      "osm:node:1817322223": 202,
+      "osm:node:1826011339": 18,
+      "osm:node:1837477541": 227,
+      "osm:node:2008768731": 320,
+      "osm:node:2159709452": 78,
+      "osm:node:2252194133": 19,
+      "osm:node:2321104505": 100,
+      "osm:node:2637110870": 0,
+      "osm:node:2890932983": 43,
+      "osm:node:2903220936": 249,
+      "osm:node:3249556955": 88,
+      "osm:node:3304009883": 20,
+      "osm:node:3304009884": 99,
+      "osm:node:3320917278": 0,
+      "osm:node:3367894389": 24,
+      "osm:node:3776173506": 264,
+      "osm:node:4018780803": 15,
+      "osm:node:4236860212": 286,
+      "osm:node:4383387193": 39,
+      "osm:node:4396671400": 71,
+      "osm:node:4794811148": 27,
+      "osm:node:4880790454": 0,
+      "osm:node:4904905375": 84,
+      "osm:node:5809933755": 91,
+      "osm:node:5831626386": 235,
+      "osm:node:5940792997": 83,
+      "osm:node:5940793764": 0,
+      "osm:node:5940812097": 55,
+      "osm:node:5979212276": 105,
+      "osm:node:6116714950": 92,
+      "osm:node:6127850150": 24,
+      "osm:node:6343144709": 108,
+      "osm:node:6516352585": 0,
+      "osm:node:6713012130": 61,
+      "osm:node:7326187053": 95,
+      "osm:node:7460901421": 31,
+      "osm:node:7490583215": 0,
+      "osm:node:8316879703": 237,
+      "osm:node:8773860823": 197,
+      "osm:node:9008622074": 42,
+      "osm:node:9373127437": 238,
+      "osm:node:9484513948": 25,
+      "osm:node:9839117666": 37,
+      "osm:node:9846756099": 101,
+      "osm:node:9861768673": 0,
+      "osm:node:9891691238": 89,
+      "osm:node:9925370463": 10,
+      "osm:node:10176145690": 107,
+      "osm:node:10218055923": 112,
+      "osm:node:10596245328": 66,
+      "osm:node:11081342247": 90,
+      "osm:node:11134078538": 38,
+      "osm:node:11305968385": 46,
+      "osm:node:11385520408": 72,
+      "osm:node:11610109057": 24,
+      "osm:node:11669950186": 261,
+      "osm:node:12052819492": 81,
+      "osm:node:12124315313": 163,
+      "osm:node:12379241608": 156,
+      "osm:node:12438483176": 0,
+      "osm:node:12456274668": 0,
+      "osm:node:12548775595": 0,
+      "osm:node:12585001177": 0,
+      "osm:node:13543599758": 0,
+      "osm:way:87575786": 276,
+      "osm:way:90104858": 51,
+      "osm:way:91966890": 261,
+      "osm:way:105116048": 116,
+      "osm:way:105117002": 0,
+      "osm:way:114865150": 0,
+      "osm:way:115794278": 79,
+      "osm:way:134361938": 290,
+      "osm:way:135355988": 14,
+      "osm:way:151663747": 231,
+      "osm:way:159421742": 34,
+      "osm:way:173318925": 108,
+      "osm:way:188823200": 229,
+      "osm:way:212402626": 0,
+      "osm:way:217179340": 22,
+      "osm:way:291108390": 0,
+      "osm:way:293710537": 298,
+      "osm:way:327575784": 243,
+      "osm:way:374068096": 11,
+      "osm:way:394991563": 85,
+      "osm:way:546817819": 27,
+      "osm:way:711128668": 92,
+      "osm:way:744877005": 59,
+      "osm:way:813455503": 51,
+      "osm:way:935628003": 264,
+      "osm:way:984264940": 82,
+      "osm:way:984264941": 0,
+      "osm:way:1023155600": 60,
+      "osm:way:1030117255": 93,
+      "osm:way:1065925539": 75,
+      "osm:way:1115280329": 0,
+      "osm:way:1203786257": 298,
+      "osm:way:1207114736": 0,
+      "osm:way:1231128429": 30,
+      "osm:way:1231565231": 110,
+      "osm:way:1243846770": 0,
+      "osm:way:1315733410": 73
+    }
+  },
+  "marketByDay": {
+    "2026-02-22": {
+      "osm:way:151663747": {
+        "status": "AVAILABLE",
+        "reserved_by": null,
+        "reserved_at": null,
+        "purchased_by": null,
+        "purchased_at": null,
+        "notes": null
+      },
+      "osm:way:327575784": {
+        "status": "AVAILABLE",
+        "reserved_by": null,
+        "reserved_at": null,
+        "purchased_by": null,
+        "purchased_at": null,
+        "notes": null
+      },
+      "osm:way:87575786": {
+        "status": "AVAILABLE",
+        "reserved_by": null,
+        "reserved_at": null,
+        "purchased_by": null,
+        "purchased_at": null,
+        "notes": null
+      },
+      "osm:way:1203786257": {
+        "status": "AVAILABLE",
+        "reserved_by": null,
+        "reserved_at": null,
+        "purchased_by": null,
+        "purchased_at": null,
+        "notes": null
+      },
+      "osm:way:744877005": {
+        "status": "AVAILABLE",
+        "reserved_by": null,
+        "reserved_at": null,
+        "purchased_by": null,
+        "purchased_at": null,
+        "notes": null
+      },
+      "osm:node:4236860212": {
+        "status": "AVAILABLE",
+        "reserved_by": null,
+        "reserved_at": null,
+        "purchased_by": null,
+        "purchased_at": null,
+        "notes": null
+      },
+      "osm:way:293710537": {
+        "status": "AVAILABLE",
+        "reserved_by": null,
+        "reserved_at": null,
+        "purchased_by": null,
+        "purchased_at": null,
+        "notes": null
+      }
+    }
+  }
+}

@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>ReGround — Coffee Grounds Map</title>
+
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="/leaflet/leaflet.css" />
+
+  <!-- Your styles -->
+  <link rel="stylesheet" href="/style.css?v=1" />
+</head>
+
+<body>
+  <!-- HERO -->
+  <header class="hero" id="top">
+    <div class="hero-inner">
+      <div class="hero-brand">REGROUND</div>
+
+      <h1 class="hero-title">Give Coffee Grounds<br/>a Second Life</h1>
+
+      <p class="hero-subtitle">
+        ReGround connects coffee locations with partners who turn used grounds into compost, fuel,
+        cosmetics, and more. Reserve or buy available grounds from the live map.
+      </p>
+
+      <div class="hero-actions">
+        <a class="btn btn-solid" href="#mapSection">Explore the Map</a>
+        <a class="btn btn-ghost" href="#howItWorks">How it Works</a>
+      </div>
+
+      <a class="hero-down" href="#mapSection" aria-label="Scroll to map">↓</a>
+    </div>
+  </header>
+
+  <!-- LIVE MAP SECTION -->
+  <section class="map-section" id="mapSection">
+    <div class="container">
+      <h2 class="section-title">Live Grounds Map</h2>
+      <p class="section-subtitle">
+        <span id="todayLabel">2026-02-22</span> · Click a marker to reserve or buy available coffee grounds
+      </p>
+
+      <div class="map-shell">
+        <!-- Left panel (My picks) -->
+        <aside class="picks-panel">
+          <div class="panel-card">
+            <div class="panel-head">
+              <div class="panel-title">My Picks</div>
+              <button id="clearAllBtn" class="mini-btn" type="button">Clear all</button>
+            </div>
+
+            <div class="panel-muted">
+              No picks yet.<br/>
+              Click on a map marker to reserve or buy coffee grounds.
+            </div>
+
+            <div id="myPicks" class="picks-list">
+              <!-- rendered by app.js -->
+            </div>
+          </div>
+
+          <!-- Hidden “system” block (keeps your app.js working but doesn’t ruin the design) -->
+          <details class="dev-drawer">
+            <summary>Details</summary>
+            <div class="dev-grid">
+              <div class="dev-card">
+                <div class="dev-title">Controls</div>
+                <div class="dev-actions">
+                  <button id="refreshBtn" class="mini-btn" type="button">Refresh</button>
+                  <button id="addModeBtn" class="mini-btn mini-btn-ghost" type="button">Add shop: OFF</button>
+                </div>
+              </div>
+
+              <div class="dev-card">
+                <div class="dev-title">Status</div>
+                <pre id="status" class="dev-status">Loading…</pre>
+              </div>
+
+              <div class="dev-card">
+                <div class="dev-title">Leaderboard (today)</div>
+                <div id="leaderboard" class="dev-leaderboard">—</div>
+              </div>
+            </div>
+          </details>
+        </aside>
+
+        <!-- Map -->
+        <div class="map-stage">
+          <div id="map" class="map-canvas"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- HOW IT WORKS -->
+  <section class="how" id="howItWorks">
+    <div class="container">
+      <h2 class="section-title">How It Works</h2>
+      <p class="section-subtitle">Three simple steps to make coffee waste part of the circular economy.</p>
+
+      <div class="how-grid">
+        <article class="how-card">
+          <div class="how-icon">⌁</div>
+          <h3 class="how-title">Find Locations</h3>
+          <p class="how-text">
+            Browse the live map to find coffee shops with available used grounds near you.
+          </p>
+        </article>
+
+        <article class="how-card how-card-emphasis">
+          <div class="how-icon">▢</div>
+          <h3 class="how-title">Reserve or Buy</h3>
+          <p class="how-text">
+            Claim grounds for pickup — reserve to hold them, or buy to confirm your order.
+          </p>
+        </article>
+
+        <article class="how-card">
+          <div class="how-icon">⟲</div>
+          <h3 class="how-title">Reuse &amp; Recycle</h3>
+          <p class="how-text">
+            Turn coffee waste into compost, biofuel, cosmetics, or other sustainable products.
+          </p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- PARTNER -->
+  <section class="partner" id="partner">
+    <div class="container">
+      <h2 class="section-title">Partner With Us</h2>
+      <p class="section-subtitle">
+        Are you a coffee company, municipality, or recycling organization?
+        Join ReGround to create circular value from coffee waste at scale.
+      </p>
+
+      <div class="partner-actions">
+        <a class="btn btn-solid" href="#top">Get in Touch</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div class="footer-left">ReGround</div>
+      <div class="footer-mid">Powered by Löfbergs · Turning coffee waste into circular value</div>
+      <div class="footer-right">© 2026 ReGround</div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="/leaflet/leaflet.js"></script>
+  <script>
+    // Just sets the date label nicely (optional)
+    const d = new Date();
+    const pad = (n) => String(n).padStart(2,"0");
+    const iso = `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}`;
+    const el = document.getElementById("todayLabel");
+    if (el) el.textContent = iso;
+  </script>
+  <script src="/app.js?v=1"></script>
+</body>
+</html>
